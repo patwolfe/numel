@@ -1,0 +1,4 @@
+(executable
+ (public_name numel)
+ (name main)
+ (libraries numel))
